@@ -1,0 +1,1 @@
+"""pytest 根配置：pytest 会把本文件所在目录加入模块搜索路径，使 engine 包可被 tests 导入。"""
